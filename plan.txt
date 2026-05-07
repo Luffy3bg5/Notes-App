@@ -1,0 +1,34 @@
+Build It in Layers
+Day 1
+
+Just:
+
+input box
+add button
+render notes
+
+Ugly UI is okay.
+
+Day 2
+
+Add:
+
+delete functionality
+localStorage
+
+Now data persists after refresh.
+
+Day 3
+
+Add:
+
+edit notes
+search functionality
+Day 4
+
+Clean:
+
+CSS
+responsive UI
+small animations if you want
+

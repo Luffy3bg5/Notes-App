@@ -1,0 +1,14 @@
+
+-> 2 sections  divided  in the middle 
+    
+    -> left   side  the previously  created notes  list
+    -> right  side  a text  box  
+
+    text box  :
+      a  section  of  title in  the  top  and  
+      the main  text  section below  it 
+      and the  save note  button below  it  
+
+ 
+add  notes  
+render  notes 
