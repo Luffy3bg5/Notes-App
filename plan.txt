@@ -32,3 +32,5 @@ CSS
 responsive UI
 small animations if you want
 
+next  goal =>
+ add the  note  to the  left  of  the  webpage whenever the  add-button is  clicked  

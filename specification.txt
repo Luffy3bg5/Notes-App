@@ -12,3 +12,4 @@
  
 add  notes  
 render  notes 
+the notes must  be  displayed  as the  

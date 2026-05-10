@@ -1,4 +1,4 @@
-let  collection = [] ;
+import { collection } from "./collection.js";
 
 document.querySelector(".add-button").addEventListener('click' , add_note) ;
 
