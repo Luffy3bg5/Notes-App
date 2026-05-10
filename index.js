@@ -6,7 +6,6 @@ document.querySelector(".add-button").addEventListener('click' , add_note) ;
 //     let  temp = {} ;
     
 // })
-document.querySelector("")
 function add_note(){
 // get  title  value 
 let  inp = document.querySelector(".title-input").value ;
@@ -35,4 +34,8 @@ collection.push(temp) ;
 
 console.log(collection) ;
 //console.log(collection )
+
+// remove   the   value  from  the input  box  
+ document.querySelector(".title-input").value = "" ;
+  document.querySelector(".main-text-input").value = "" ;
 }
