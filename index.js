@@ -17,7 +17,7 @@ let  c = document.querySelector(".main-text-input").value ;
 
 // create  object  
 let  temp = {
-    id :"" ,
+    
     title :"",
     content :""
 } ;
@@ -31,7 +31,6 @@ else {
 }
 
 temp.content = c ;
-temp.id = len(collection) + 1 ;
 collection.push(temp) ;
 render_notes(collection) ;
 // console.log(collection) ;
